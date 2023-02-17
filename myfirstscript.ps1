@@ -1,2 +1,1 @@
-Write-Host "Hi im myla"
-Get-Date
+Write-Output "Hi im myla and i farted" | Out-File ./myfirstinput.txt
